@@ -1,2 +1,6 @@
 flask
 pandas
+seaborn
+numpy 
+matplotlib
+-e .
